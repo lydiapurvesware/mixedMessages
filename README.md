@@ -5,5 +5,5 @@ This program has been built to fulfill the Mixed Messages assignment on Codecade
 ## Language
 -JavaScript
 
-####Author:
+#### Author:
 Lydia Purves-Ware
